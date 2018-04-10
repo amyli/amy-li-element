@@ -1,0 +1,12 @@
+{
+  "name": "amy-li",
+  "version": "1.0.0",
+  "description": "I'm a custom element now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amy Li",
+  "repository": "github:amyli/amy-li-element",
+  "license": "MIT"
+}
